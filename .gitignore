@@ -1,7 +1,13 @@
-__pycache__
-*/__pycache__
+__pycache__/
+**/__pycache__/
 .pytest_cache
 */.pytest_cache
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
 .coverage
 */.coverage
 .venv
+.vscode
